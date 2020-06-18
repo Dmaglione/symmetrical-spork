@@ -1,7 +1,9 @@
 body{
     background-color: tan;
 }
-
+.form-group{
+    max-width: 1000px;
+}
 .input-group.mb-3 {
     max-width: 600px;
     margin-bottom: 0px;
@@ -11,7 +13,4 @@ body{
     max-width: 800px;
     margin-right: auto;
     margin-left: auto;
-}
-.form-group{
-    max-width: 1000px;
 }

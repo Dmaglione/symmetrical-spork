@@ -1,5 +1,6 @@
 body{
     background-color: tan;
+    margin:auto;
 }
 .form-group {
     max-width: 400px;
